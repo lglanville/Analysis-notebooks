@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 38359015.207
+carrier: 5.25 Floppy Disk DS DD
+identifier: 2014.0037.01077
+title: Dec 85 Own Journalism

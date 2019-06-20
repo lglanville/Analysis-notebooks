@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 36730344.208
+carrier: 3.5 Floppy Disk DS DD
+identifier: 2014.0037.01013
+title: Orinda Vol II to p. 68. Stump Cross Books. Walden Road, Stump Cross, near Saffron Walden, Essex CB10 1RW ENGLAND.

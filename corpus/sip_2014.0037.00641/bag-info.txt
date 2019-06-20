@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 116547189.836
+carrier: Zip Disk 100MB
+identifier: 2014.0037.00641
+title: CD-ROM Diary/Accounts

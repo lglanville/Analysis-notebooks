@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 1638636.11
+carrier: 3.5 Floppy Disk DS DD
+identifier: 2014.0037.00736
+title: To Print 11/94. Alt title 1: KP Aug 90/2. Alt title 2: The Collected Works of Katherine Philips Vol 1. Notes to Poems. Works Cited. Alt title 3: Blank.

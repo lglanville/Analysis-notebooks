@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 233265109.1542
+carrier: Zip disk 250MB
+identifier: 2014.0037.00655
+title: Backup

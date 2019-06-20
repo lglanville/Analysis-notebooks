@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 6600049.57
+carrier: CD-RW
+identifier: 2014.0037.00665
+title: [untitled]

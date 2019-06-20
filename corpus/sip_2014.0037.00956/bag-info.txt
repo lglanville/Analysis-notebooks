@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 3770369.352
+carrier: 3.5 Floppy Disk DS HD
+identifier: 2014.0037.00956
+title: Correspondence May 1996 - August

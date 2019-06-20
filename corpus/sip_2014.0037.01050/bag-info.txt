@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 40459435.215
+carrier: 5.25 Floppy Disk DS DD
+identifier: 2014.0037.01050
+title: Daddy II. 6.6.88.

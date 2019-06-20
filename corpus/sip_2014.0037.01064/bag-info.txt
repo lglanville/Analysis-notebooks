@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 39866712.196
+carrier: 5.25" Floppy disk
+identifier: 2014.0037.01064
+title: Daddy I. 25/6. BU.

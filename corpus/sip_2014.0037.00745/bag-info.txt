@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 33591509.173
+carrier: 3.5 Floppy Disk DS DD
+identifier: 2014.0037.00745
+title: Modern Painters. Word 6. Germaine Greer Article. Aboriginal Painters.

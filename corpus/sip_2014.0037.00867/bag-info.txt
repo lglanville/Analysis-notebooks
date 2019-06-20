@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 1619203.84
+carrier: 3.5 Floppy Disk DS DD
+identifier: 2014.0037.00867
+title: Backup 12b. Correspondence. L/8/10/93. Nov 11 93.

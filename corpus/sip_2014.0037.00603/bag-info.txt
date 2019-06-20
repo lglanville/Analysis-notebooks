@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 53146722.525
+carrier: CD-R
+identifier: 2014.0037.00603
+title: Loughton cars SCB/ABC

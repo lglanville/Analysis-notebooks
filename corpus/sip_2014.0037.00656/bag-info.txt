@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 30469261.1146
+carrier: Zip Disk 100MB
+identifier: 2014.0037.00656
+title: E. Archive Word Files 12/02 - ARC 9/05

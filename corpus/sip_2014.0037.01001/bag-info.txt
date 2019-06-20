@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 1169906234.105
+carrier: Zip disk
+identifier: 2014.0037.01001
+title: Faber.

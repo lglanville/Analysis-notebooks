@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 5710619.143
+carrier: Zip Disk 100MB
+identifier: 2014.0037.00646
+title: Orinda

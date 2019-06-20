@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 776262318.8
+carrier: CD-RW
+identifier: 2014.0037.01021
+title: Greer - Boy ppt.draft 1. 344 MB. 2/10/03.

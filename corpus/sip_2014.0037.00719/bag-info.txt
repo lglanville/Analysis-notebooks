@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 1784136.10
+carrier: 3.5 Floppy Disk DS DD
+identifier: 2014.0037.00719
+title: Behn Verse 23.2.89.

@@ -1,0 +1,6 @@
+Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
+Bagging-Date: 2018-03-15
+Payload-Oxum: 698537505.75
+carrier: USB flash drive
+identifier: 2014.0037.01014
+title: Porters' PRE 2009. 17.vii.05-11.v.07.
