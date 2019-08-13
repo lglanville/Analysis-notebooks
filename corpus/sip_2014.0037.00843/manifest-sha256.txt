@@ -1,1 +1,1 @@
-e78a71a03c5dedc0c3db24c5daac36811ab3934a4c7a1e6f070d770fee2ce311  data\Folder_2\Folder_3\File_4
+e78a71a03c5dedc0c3db24c5daac36811ab3934a4c7a1e6f070d770fee2ce311  data/Folder_2/Folder_3/File_4

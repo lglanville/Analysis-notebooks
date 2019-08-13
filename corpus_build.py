@@ -3,6 +3,7 @@ import bagit
 import sys
 import shutil
 import csv
+import pathlib
 
 
 def filter_info(info):
@@ -26,7 +27,8 @@ def find_droid(directory):
 
 
 def path_to_uri(path):
-    uri = 'file:/'+path.replace('\\', '/')
+    path = pathlib.PurePath(path)
+    uri = 'file:/'+path.as_posix()
     return uri
 
 
@@ -59,8 +61,9 @@ def strip_manifests(bag):
                 id_map[line['ID']] = path
             if hashes is not None:
                 for alg, hash in hashes.items():
+                    p = pathlib.PurePath("data"+path.split("data")[1])
                     man_lines[alg].append(
-                        f'{hash}  {"data"+path.split("data")[1]}\n')
+                        f'{hash}  {p.as_posix()}\n')
     return droid, man_lines
 
 
