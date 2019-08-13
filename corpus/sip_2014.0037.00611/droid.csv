@@ -1,0 +1,4 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00611/data/Folder_2,\corpus\sip_2014.0037.00611\data\Folder_2,Folder_2,,Done,,Folder,,2018-10-30T11:17:11,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00611/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00611\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-10-30T11:17:25,false,,,,,,
+4,3,file://corpus/sip_2014.0037.00611/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00611\data\Folder_2\Folder_3\File_4,File_4,Container,Done,5520896,File,,2004-04-11T04:00:20,true,,1,fmt/126,application/vnd.ms-powerpoint,Microsoft Powerpoint Presentation,97-2003

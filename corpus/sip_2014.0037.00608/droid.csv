@@ -1,0 +1,5 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00608/data/Folder_2,\corpus\sip_2014.0037.00608\data\Folder_2,Folder_2,,Done,,Folder,,2018-10-30T11:04:38,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00608/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00608\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-10-30T11:04:51,false,,,,,,
+4,3,file://corpus/sip_2014.0037.00608/data/Folder_2/Folder_3/Folder_4,\corpus\sip_2014.0037.00608\data\Folder_2\Folder_3\Folder_4,Folder_4,,Done,,Folder,,2018-10-30T11:04:38,false,,,,,,
+5,4,file://corpus/sip_2014.0037.00608/data/Folder_2/Folder_3/Folder_4/File_5,\corpus\sip_2014.0037.00608\data\Folder_2\Folder_3\Folder_4\File_5,File_5,Signature,Done,996495,File,,2003-10-31T22:22:25,true,,1,fmt/42,image/jpeg,JPEG File Interchange Format,1.00

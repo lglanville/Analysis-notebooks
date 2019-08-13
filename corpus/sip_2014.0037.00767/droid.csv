@@ -1,0 +1,13 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00767/data/Folder_2,\corpus\sip_2014.0037.00767\data\Folder_2,Folder_2,,Done,,Folder,,2018-11-07T12:11:09,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-11-07T12:11:09,false,,,,,,
+5,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_5,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_5,File_5,,Done,7288,File,,1989-06-05T23:39:51,false,,0,,,,
+4,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_4,File_4,,Done,3999,File,,1989-06-03T01:34:20,false,,0,,,,
+6,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_6,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_6,File_6,,Done,4743,File,,1989-06-05T20:24:42,false,,0,,,,
+8,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_8,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_8,File_8,,Done,3456,File,,1989-04-22T01:59:04,false,,0,,,,
+7,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_7,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_7,File_7,,Done,2950,File,,1989-05-28T17:36:55,false,,0,,,,
+9,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_9,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_9,File_9,,Done,286,File,,1990-07-17T20:35:02,false,,0,,,,
+10,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_10,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_10,File_10,,Done,3620,File,,1989-05-31T21:26:15,false,,0,,,,
+11,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_11,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_11,File_11,,Done,4539,File,,1989-05-18T17:20:55,false,,0,,,,
+12,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_12,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_12,File_12,,Done,4009,File,,1989-03-02T04:33:10,false,,0,,,,
+13,3,file://corpus/sip_2014.0037.00767/data/Folder_2/Folder_3/File_13,\corpus\sip_2014.0037.00767\data\Folder_2\Folder_3\File_13,File_13,,Done,3963,File,,1989-06-05T20:41:02,false,,0,,,,

@@ -1,0 +1,4 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00619/data/Folder_2,\corpus\sip_2014.0037.00619\data\Folder_2,Folder_2,,Done,,Folder,,2018-10-30T14:21:16,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00619/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00619\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-10-30T14:21:31,false,,,,,,
+4,3,file://corpus/sip_2014.0037.00619/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00619\data\Folder_2\Folder_3\File_4,File_4,Container,Done,1148928,File,doc,2007-01-16T06:34:53,false,,1,fmt/40,application/msword,Microsoft Word Document,97-2003

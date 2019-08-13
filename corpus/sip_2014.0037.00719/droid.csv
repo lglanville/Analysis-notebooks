@@ -1,0 +1,6 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00719/data/Folder_2,\corpus\sip_2014.0037.00719\data\Folder_2,Folder_2,,Done,,Folder,,2018-11-06T13:28:50,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00719/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00719\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-11-06T13:29:04,false,,,,,,
+5,3,file://corpus/sip_2014.0037.00719/data/Folder_2/Folder_3/File_5,\corpus\sip_2014.0037.00719\data\Folder_2\Folder_3\File_5,File_5,,Done,374633,File,,1989-03-14T08:25:46,false,,0,,,,
+6,3,file://corpus/sip_2014.0037.00719/data/Folder_2/Folder_3/File_6,\corpus\sip_2014.0037.00719\data\Folder_2\Folder_3\File_6,File_6,,Done,172305,File,,1989-03-29T23:26:02,false,,0,,,,
+4,3,file://corpus/sip_2014.0037.00719/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00719\data\Folder_2\Folder_3\File_4,File_4,,Done,5624,File,,1989-03-27T22:10:41,false,,0,,,,

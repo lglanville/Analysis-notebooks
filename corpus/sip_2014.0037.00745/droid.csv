@@ -1,0 +1,3 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00745/data/Folder_2,\corpus\sip_2014.0037.00745\data\Folder_2,Folder_2,,Done,,Folder,,2018-11-06T16:18:48,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00745/data/Folder_2/File_3,\corpus\sip_2014.0037.00745\data\Folder_2\File_3,File_3,Signature,Done,51200,File,doc,1998-02-12T03:40:46,true,,1,x-fmt/65,application/msword,Microsoft Word for Macintosh Document,5.0

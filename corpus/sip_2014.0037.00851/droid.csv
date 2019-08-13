@@ -1,0 +1,13 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00851/data/Folder_2,\corpus\sip_2014.0037.00851\data\Folder_2,Folder_2,,Done,,Folder,,2018-12-11T12:34:55,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-12-11T12:35:12,false,,,,,,
+4,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\File_4,File_4,,Done,2048,File,,1993-03-27T00:10:00,false,,0,,,,
+5,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/File_5,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\File_5,File_5,,Done,2048,File,,1993-03-27T00:12:23,false,,0,,,,
+6,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/File_6,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\File_6,File_6,,Done,2048,File,,1993-02-27T01:38:08,false,,0,,,,
+7,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/File_7,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\File_7,File_7,,Done,2048,File,,1993-03-26T03:02:21,false,,0,,,,
+8,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/File_8,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\File_8,File_8,,Done,2048,File,,1993-03-26T03:06:36,false,,0,,,,
+9,3,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/Folder_9,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\Folder_9,Folder_9,,Done,,Folder,,2018-12-11T12:34:56,false,,,,,,
+10,9,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/Folder_9/File_10,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\Folder_9\File_10,File_10,Signature,Done,2560,File,doc,1992-05-21T21:52:25,true,,1,x-fmt/64,application/msword,Microsoft Word for Macintosh Document,4.0
+11,9,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/Folder_9/File_11,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\Folder_9\File_11,File_11,Signature,Done,2560,File,doc,1992-05-14T19:21:26,true,,1,x-fmt/64,application/msword,Microsoft Word for Macintosh Document,4.0
+12,9,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/Folder_9/File_12,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\Folder_9\File_12,File_12,Signature,Done,2560,File,doc,1992-05-11T19:10:02,true,,1,x-fmt/64,application/msword,Microsoft Word for Macintosh Document,4.0
+13,9,file://corpus/sip_2014.0037.00851/data/Folder_2/Folder_3/Folder_9/File_13,\corpus\sip_2014.0037.00851\data\Folder_2\Folder_3\Folder_9\File_13,File_13,Signature,Done,3072,File,doc,1992-05-11T22:56:08,true,,1,x-fmt/64,application/msword,Microsoft Word for Macintosh Document,4.0

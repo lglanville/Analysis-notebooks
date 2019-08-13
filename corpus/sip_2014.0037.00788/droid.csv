@@ -1,0 +1,11 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00788/data/Folder_2,\corpus\sip_2014.0037.00788\data\Folder_2,Folder_2,,Done,,Folder,,2018-11-07T14:15:09,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-11-07T14:15:25,false,,,,,,
+6,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_6,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_6,File_6,Signature,Done,65920,File,bak,1992-10-20T21:15:22,true,,1,x-fmt/205,,WordStar for MS-DOS Document,5.0
+7,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_7,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_7,File_7,Signature,Done,57216,File,,1992-10-21T04:11:38,true,,1,x-fmt/205,,WordStar for MS-DOS Document,5.0
+4,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_4,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_4,File_4,Signature,Done,57216,File,,1992-09-01T07:38:52,true,,1,x-fmt/205,,WordStar for MS-DOS Document,5.0
+5,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_5,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_5,File_5,Signature,Done,83712,File,ws4,1992-10-22T20:52:08,true,,1,x-fmt/236,,WordStar for MS-DOS Document,5.5
+8,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_8,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_8,File_8,Signature,Done,85504,File,,1992-10-22T03:17:48,true,,1,x-fmt/236,,WordStar for MS-DOS Document,5.5
+9,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_9,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_9,File_9,Signature,Done,68864,File,ws4,1992-10-22T18:11:00,true,,1,x-fmt/236,,WordStar for MS-DOS Document,5.5
+10,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_10,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_10,File_10,Signature,Done,70272,File,ws4,1992-10-22T20:33:54,true,,1,x-fmt/236,,WordStar for MS-DOS Document,5.5
+11,3,file://corpus/sip_2014.0037.00788/data/Folder_2/Folder_3/File_11,\corpus\sip_2014.0037.00788\data\Folder_2\Folder_3\File_11,File_11,Signature,Done,12800,File,,1992-10-22T20:58:38,true,,1,x-fmt/236,,WordStar for MS-DOS Document,5.5

@@ -1,0 +1,9 @@
+ID,PARENT_ID,URI,FILE_PATH,NAME,METHOD,STATUS,SIZE,TYPE,EXT,LAST_MODIFIED,EXTENSION_MISMATCH,HASH,FORMAT_COUNT,PUID,MIME_TYPE,FORMAT_NAME,FORMAT_VERSION
+2,,file://corpus/sip_2014.0037.00823/data/Folder_2,\corpus\sip_2014.0037.00823\data\Folder_2,Folder_2,,Done,,Folder,,2018-11-08T13:30:06,false,,,,,,
+3,2,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3,Folder_3,,Done,,Folder,,2018-11-08T13:30:51,false,,,,,,
+9,3,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/File_9,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\File_9,File_9,Container,Done,9216,File,doc,1998-10-30T03:08:00,false,,1,fmt/39,application/msword,Microsoft Word Document,6.0/95
+8,3,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/File_8,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\File_8,File_8,Container,Done,15872,File,doc,1998-10-22T23:22:46,false,,1,fmt/39,application/msword,Microsoft Word Document,6.0/95
+4,3,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/Folder_4,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\Folder_4,Folder_4,,Done,,Folder,,2018-11-08T13:30:06,false,,,,,,
+5,4,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/Folder_4/File_5,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\Folder_4\File_5,File_5,,Done,9877,File,nif,1988-10-26T23:04:14,false,,0,,,,
+6,4,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/Folder_4/File_6,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\Folder_4\File_6,File_6,,Done,7571,File,,1988-10-26T23:01:58,false,,0,,,,
+7,4,file://corpus/sip_2014.0037.00823/data/Folder_2/Folder_3/Folder_4/File_7,\corpus\sip_2014.0037.00823\data\Folder_2\Folder_3\Folder_4\File_7,File_7,,Done,7639,File,,1988-10-26T23:02:58,false,,0,,,,
