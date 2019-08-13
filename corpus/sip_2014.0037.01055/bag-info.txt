@@ -1,6 +1,6 @@
 Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
 Bagging-Date: 2018-03-15
-Payload-Oxum: 40815911.222
+Payload-Oxum: 40826215.197
 carrier: 5.25 Floppy Disk DS DD
 identifier: 2014.0037.01055
 title: Fortune's Maggot. 3.09.87. Software = Wordcraft.

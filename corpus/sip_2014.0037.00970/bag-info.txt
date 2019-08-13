@@ -1,6 +1,0 @@
-Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
-Bagging-Date: 2018-03-15
-Payload-Oxum: 1502290.3
-carrier: 3.5 Floppy Disk DS HD
-identifier: 2014.0037.00970
-title: W Word

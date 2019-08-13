@@ -1,6 +1,0 @@
-Bag-Software-Agent: bagit.py v1.6.3 <https://github.com/LibraryOfCongress/bagit-python>
-Bagging-Date: 2018-03-15
-Payload-Oxum: 40842102.172
-carrier: 3.5 Floppy Disk DS DD
-identifier: 2014.0037.00961
-title: Letters July to Oct 89
